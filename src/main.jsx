@@ -299,7 +299,7 @@ function App() {
             <div className="visual-core">
               <div className="core-grid" />
               <div className="core-monogram">
-                i<span>.</span>a
+                i<span>.</span>b
               </div>
               <div className="core-caption">
                 IDEAS → INTERFACES → IMPACT
