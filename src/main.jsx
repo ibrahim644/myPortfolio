@@ -584,8 +584,8 @@ function App() {
                       <div className="gallery-placeholder-icon">
                         <span>+</span>
                       </div>
-                      <p>Place your image at</p>
-                      <code>public/images/{photo.file}</code>
+                      <p></p>
+                      <code>{photo.file}</code>
                     </div>
                   </div>
 
@@ -601,9 +601,8 @@ function App() {
             </div>
 
             <p className="gallery-help">
-              <Sparkles size={15} /> Add your photos by copying them into{" "}
-              <code>public/images/</code> using the filenames shown in each
-              tile.
+              <Sparkles size={15} /> {" "}
+              <code></code>
             </p>
           </div>
         </section>
