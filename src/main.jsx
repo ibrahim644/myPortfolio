@@ -261,14 +261,7 @@ function App() {
                 View CV <FileText size={16} />
               </a>
 
-              <a
-                className="button button-quiet"
-                href={LINKS.cv}
-                target="_blank"
-                rel="noreferrer"
-              >
-                Download CV <Download size={16} />
-              </a>
+               
             </div>
 
             <div className="hero-footnote">
