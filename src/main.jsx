@@ -234,7 +234,7 @@ function App() {
             <h1>
               I build digital
               <br />
-              things that <em>matter.</em>
+              products that <em>matter.</em>
             </h1>
 
             <p className="hero-lead">
@@ -671,7 +671,7 @@ function App() {
             </div>
 
             <h2>
-              Let's make
+              Let's build
               <br />
               <em>something useful.</em>
             </h2>
